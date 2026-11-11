@@ -92,8 +92,8 @@ Postman was used to test the API and verify that its requests are working correc
 The screenshots below demonstrate the API operations.
 
 ### GET - Retrieve Pets
+<img width="844" height="559" alt="image" src="https://github.com/user-attachments/assets/e86266c7-4151-43a2-a0d3-a8db0016e573" />
 
-<img width="1225" height="868" alt="Captura de tela 2026-11-11 153020" src="https://github.com/user-attachments/assets/36df3cd1-f5ca-47e8-9bbd-1b2e09f8b1e7" />
 
 ## Postman
 
@@ -103,7 +103,7 @@ The screenshots below demonstrate the API operations.
 
 ### POST - Create a Pet
 
-<img width="844" height="559" alt="image" src="https://github.com/user-attachments/assets/e86266c7-4151-43a2-a0d3-a8db0016e573" />
+<img width="1225" height="868" alt="Captura de tela 2026-11-11 153020" src="https://github.com/user-attachments/assets/36df3cd1-f5ca-47e8-9bbd-1b2e09f8b1e7" />
 
 ## Postman
 
