@@ -1,10 +1,10 @@
 # &#x20;Pet API - Fixed
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/API-REST-red?style=for-the-badge](https://img.shields.io/badge/API-REST-red?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Status-Working-success?style=for-the-badge](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge\&logo=github)" />
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/API-REST-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Working-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github" />
+</p>
 
 ## &#x20;About the Project
 
@@ -158,7 +158,7 @@ This project is available on GitHub for educational and development purposes.
 \</p>
 
 ---
-#prints 
+prints 
 
 api working
 <img width="1887" height="968" alt="image" src="https://github.com/user-attachments/assets/21fdd2eb-998b-4515-865c-387c28d01a16" />
@@ -171,11 +171,18 @@ showing the created pet
 
 
 postman screenshots
+---
+
+
 Get
 <img width="960" height="709" alt="image" src="https://github.com/user-attachments/assets/8991721b-385e-4375-bc1c-54717b95af26" />
 
+
+
 Post
 <img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/f62c7ab4-3c9c-44f1-b9e5-5a35d2cbc11f" />
+
+
 
 Delete
 <img width="1085" height="965" alt="image" src="https://github.com/user-attachments/assets/3460ef51-9704-4aed-8316-bf3a72839195" />
